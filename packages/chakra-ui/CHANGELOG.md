@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.7.0...@chakra-ui/core@0.7.1) (2020-04-03)
+
+**Note:** Version bump only for package @chakra-ui/core
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [0.7.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.6.1...@chakra-ui/core@0.7.0) (2020-03-25)
 
 ### Bug Fixes

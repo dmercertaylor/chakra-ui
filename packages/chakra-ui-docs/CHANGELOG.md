@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.8](https://github.com/dmercertaylor/chakra-ui/compare/@chakra-ui/docs@0.4.7...@chakra-ui/docs@0.4.8) (2020-04-03)
+
+### Bug Fixes
+
+- move github button out of header on mobile
+  ([c3d96c5](https://github.com/dmercertaylor/chakra-ui/commit/c3d96c5b6160827f55caa190afa1f6f1f04e2593))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [0.4.7](/compare/@chakra-ui/docs@0.4.6...@chakra-ui/docs@0.4.7) (2020-03-25)
 
 **Note:** Version bump only for package @chakra-ui/docs
